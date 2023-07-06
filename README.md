@@ -9,8 +9,8 @@ First Year : Basic html/css Real Estate Website
 
 3.You should see the see the following output:
 
-![image](/Images/Picture1.png)
-![image](/Images/Picture2.png)
+![image](Images/image1.png)
+![image](/Images/image2.png)
 
 
 
